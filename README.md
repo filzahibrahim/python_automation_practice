@@ -8,12 +8,12 @@ About this Repository:
 This repo is where I practice, experiment and share my progress. Everything here is written by hand. No copy pasting!!!!
 
 Tools:
-VS Code
-Python 3.14.6 (any 3.x)
-Libraries: os, openpyxl, pandas, requests, BeautifulSoup4
+-VS Code
+-Python 3.14.6 (any 3.x)
+-Libraries: os, openpyxl, pandas, requests, BeautifulSoup4
 
 Actively Learining Right now!
 
 Let's Connect:
-https://www.fiverr.com/users/filzah_ibrahim
-www.linkedin.com/in/filzah-ibrahim-a30903397
+-https://www.fiverr.com/users/filzah_ibrahim
+-www.linkedin.com/in/filzah-ibrahim-a30903397

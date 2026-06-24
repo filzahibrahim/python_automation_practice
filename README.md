@@ -1,7 +1,7 @@
 # python_automation_practice
-Learning Python Automation through the book "Automate the Boring Stuff with Python" by Al Sweigart. I write and push code that i practice chapter by chapter as I improve my Python Skills. 
+Learning Python Automation through the book "Automate the Boring Stuff with Python" by Al Sweigart. I write and push code that i practice(chapter by chapter) as I improve my Python Skills. 
 
-The Chapters I am focusing in to learn Python Automation are:
+The Chapters I am focusing on to learn Python Automation are:
 Chapter 1, 2, 3 ,4 ,5 ,6 ,7 ,8 ,10 ,13, 14, 18.
 
 About this Repository:

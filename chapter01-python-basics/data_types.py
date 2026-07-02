@@ -1,4 +1,3 @@
-
 name = "filzah" #string type
 #age = 20 #integer type
 isStudent = True #boolean type

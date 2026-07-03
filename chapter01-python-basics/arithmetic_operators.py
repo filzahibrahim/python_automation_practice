@@ -21,3 +21,4 @@ print(20 / 5 + 3) #guess
 print("Go" * 4) #guess 
 print(10 // 3) #guess 
 print(10 % 3) #guess 
+print(2 + 3 * 4 - 5) #guess

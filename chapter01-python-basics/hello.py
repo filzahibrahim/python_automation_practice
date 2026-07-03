@@ -1,4 +1,4 @@
-print('Hello World')
+print('Hello World') #print is use to disoplay a message or output on the screen
 print('I am Filzah')
 print('I am learning Python Automation!')
 print('My favorite game is Sudoku')

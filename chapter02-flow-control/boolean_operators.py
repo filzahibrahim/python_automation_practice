@@ -15,9 +15,9 @@ print(age > 20 or has_id) #one condition is true so it evealutes to True
 print(age >20 or not(has_id)) #OR is only false when both values are false
 
 #practice
-print(7 != 8 and 2 > 10) #guess the output f
-print(5 > 3 and 10 == 10) #t
-print(5 < 3 or 10 == 10) #t
-print(not (5 > 3)) #f
-print("cat" == "cat" and 20 >= 18) #t
-print("dog" == "cat" or 100 < 50) #f
+print(7 != 8 and 2 > 10) #guess the output 
+print(5 > 3 and 10 == 10) 
+print(5 < 3 or 10 == 10) 
+print(not (5 > 3)) 
+print("cat" == "cat" and 20 >= 18) 
+print("dog" == "cat" or 100 < 50) 

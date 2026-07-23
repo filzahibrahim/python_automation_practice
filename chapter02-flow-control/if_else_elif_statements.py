@@ -21,3 +21,25 @@ if temperature > 30: #do this IF true
     print("Its hot!!")
 else: #or ELSE do this. skips ELSE when if is true
     print("Its cold")
+
+age = 15
+
+if age >= 18:
+    print("Adult")
+elif age >= 13: #lets you add another condition if the first condition is false
+    print("Teenager")
+else: 
+    print("Minor")
+
+score = 75
+
+if score >= 90: #checks -> false -> moves on
+    print("A")
+elif score >= 80: #checks -> false -> moves on
+    print("B")
+elif score >= 70: #checks -> true -> executes
+    print("C")
+elif score >= 60: #skips
+    print("D")
+else: #skips
+    print("F")

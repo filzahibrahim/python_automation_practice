@@ -20,3 +20,21 @@ word = "Python"
 
 for letter in word:
     print("I found:", letter) #guess the output
+
+#range is used in for loop when you want to repeat something for a specific number of times
+#range(stop) -> assumes to start from 0 and stop before the number given
+#range(start, stop) -> a number to start from and to stop before the given number
+#range(start, stop, step) #step means to increase or decrease by the given number (like +2, -2)
+
+for i in range(6): #when the start number is not given python assumes to start from 0, stop number is given so it will stop before the number 6
+    print(i) #run to see the output
+
+for number in range(10):
+    print(number) #predict
+
+for num in range(2, 8): #starts from 2 and ends "before" 8.
+    print(num) 
+
+for num1 in range(0, 11, 2): #the step tells the loop to change by how much. In this case in increases by 2 in each loop
+    print(num1) #run to see the output
+#prints "1" then increases by +2 so prints "2" in the second loop. and goes on like this and stops before 11

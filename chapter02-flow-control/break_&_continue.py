@@ -24,8 +24,16 @@ while count < 5:
 count = 11
 while count > 1:
     count = count - 1
+    #can also be written as
+    #count -= 1
 
     if count < 8:
         break
 
     print(count)
+
+#we can use 
+#while True
+#it will run keep repeating 
+#but we can use break in it so it eventually stops
+#we use while True when we want something to keep repeating until we ask it to stop(break)

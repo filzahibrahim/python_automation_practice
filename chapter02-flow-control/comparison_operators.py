@@ -6,8 +6,8 @@
 5!= 4 #not equals to
 5 > 3 #greater than
 5 < 7 #less than
-18 >= 18 # greater than or equals
-4 <= 5 #less than or equals
+18 >= 18 # greater than or equal to
+4 <= 5 #less than or equal to
 #5 = 5 #WRONG! this is assignment, python expects a variable on the left
 
 #a comparison always ask a question

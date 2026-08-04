@@ -9,7 +9,7 @@ has_id = True
 print(age >= 18 and has_id) #both conditions true so it evaluates to True
 
 print(age >= 18 and not(has_id)) #one condition is false so it evaluates to False
-#not inverted the value of has_id from True to False
+#"not" inverted the value of has_id from True to False
 
 print(age > 20 or has_id) #one condition is true so it evealutes to True
 print(age >20 or not(has_id)) #OR is only false when both values are false

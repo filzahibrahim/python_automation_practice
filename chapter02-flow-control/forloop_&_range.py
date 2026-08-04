@@ -22,7 +22,7 @@ for letter in word:
     print("I found:", letter) #guess the output
 
 #range is used to generate a sequence of numbers that a for loop can go through.
-#range(stop) -> assumes to start from 0 and stop before the number given
+#range(stop) -> asuumes to start from 0 and stop before the number given
 #range(start, stop) -> a number to start from and to stop before the given number
 #range(start, stop, step) #step means to increase or decrease by the given number (like +2, -2)
 

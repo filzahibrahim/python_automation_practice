@@ -43,3 +43,14 @@ elif score >= 60: #skips
     print("D")
 else: #skips
     print("F")
+
+score = 85
+age = 20
+
+#we can also said muiltple condition using "and" and "or"
+#for example
+if score > 80 or score > 90: #if any one of these conditon is true it will print great work
+    print("Great Work")
+
+if age > 18 and score > 80: #with "and" both conditions has to be true for it to run
+    print("You will get a job!") 

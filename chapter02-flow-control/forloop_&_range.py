@@ -37,7 +37,7 @@ for num in range(2, 8): #starts from 2 and ends "before" 8.
 
 for num1 in range(0, 11, 2): #the step tells the loop to change by how much. In this case in increases by 2 in each loop
     print(num1) #run to see the output
-#prints "1" then increases by +2 so prints "2" in the second loop. and goes on like this and stops before 11
+#prints "0" then increases by +2 so prints "2" in the second loop. and goes on like this and stops before 11
 
 #for practice
 #guess the outputs before running

@@ -41,9 +41,16 @@ introduce("Azusa", 20) #python just assigns age the new value we gave in our arg
 
 #another example
 
-def greet(name, message = "Hello!"):
+def greet(name, message = "Hello!"): #the default parameter always come at the end
     print(f"{message}, {name}")
 
 greet("Azusa")
 greet("Sarah", "Hiiii!")
 greet("Emma", "Morning!")
+
+#Now "Keyword Argument"
+#remember how i had to match the order of the argument with the parameter
+#instead of worrying about the order we can just use the keyword in the argument. like:
+
+greet(message="You are a X-women!", name="Frost") #see the order is different from the parameter
+#but because we used the keyword, Python knows which argument belongs to which parameter!

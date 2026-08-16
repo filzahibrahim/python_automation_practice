@@ -54,3 +54,12 @@ greet("Emma", "Morning!")
 
 greet(message="You are a X-women!", name="Frost") #see the order is different from the parameter
 #but because we used the keyword, Python knows which argument belongs to which parameter!
+#we can also have a mix of keyword and positional argument
+
+greet("Frost", message="You are so cool!") #Frost goes into name due to positional argument then the message 
+#one is direct with a keyword
+#BUT
+
+#greet(message="You are so cool!", "Frost") 
+#This is not allowed. A positional argument can not come after a keyword argument
+#this is the rule of order!

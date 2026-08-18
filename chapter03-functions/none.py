@@ -15,8 +15,8 @@ print(check_age(18))
 #None is also used as a default parameter
 
 def greet(name = None):
-    if name is None:
-        return f"Hello! stranger"
+    if name is None: #to check if something is None, we use "is" instead of "=="
+        return "Hello! stranger"
     else:
         return f"Hello, {name}"
 

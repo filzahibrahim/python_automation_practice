@@ -7,7 +7,7 @@ fruits = ["banana", "mango", "apple"]
 
 fruits[1] = "orange" #this means to just change whatever is at index 1 to "orange"
 
-#list are mutable, which means they can be changed
+#lists are mutable, which means they can be changed
 #so we can change any item 
 
 numbers = [20, 40, 60 , 80]
